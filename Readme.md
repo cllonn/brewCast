@@ -66,7 +66,7 @@ With over **600 days of real-world data**, BrewCast was trained to classify busi
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 BrewCast helps small businesses:
 - Anticipate peak days for promotions
@@ -75,7 +75,7 @@ BrewCast helps small businesses:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Area              | Tools Used              |
 |------------------|-------------------------|
@@ -86,19 +86,19 @@ BrewCast helps small businesses:
 
 ---
 
-## 🖼 Visuals
+## Visuals
 
-### 📌 Poster  
+### Poster  
 ![BrewCast Poster](assets/brewcast_poster.png)
 
-### 🧠 System Overview  
+### System Overview  
 ![Model Diagram](assets/brewcast_diagram.png)
 
 > *(Ensure the images are added to an `assets/` folder in your repo)*
 
 ---
 
-## 📁 Files in This Repo
+## Files in This Repo
 - `brewcast_ppt.pdf` – Full presentation
 - `brewcastposter.pdf` – Final project poster
 - `coffee_shop_sales_dataset_updated.csv` – Cleaned dataset
@@ -106,7 +106,7 @@ BrewCast helps small businesses:
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 
 - **Sara Almarzooqi** – Model Evaluation & Data Collection
 - **Saleha Alameri** – Data Collection & Cleaning  
@@ -114,7 +114,7 @@ BrewCast helps small businesses:
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - Deploy model as a web-based dashboard or mobile app
 - Integrate live weather API for real-time predictions
@@ -122,7 +122,7 @@ BrewCast helps small businesses:
 
 ---
 
-## 📎 References
+## References
 
 - UAE National Meteorological Center (NMC)
 - Weather Underground API
@@ -130,7 +130,7 @@ BrewCast helps small businesses:
 
 ---
 
-## 🔗 Links
+## Links
 
 - 🔗 [Presentation PDF](./BrewCastppt.pdf)  
 - 🔗 [Poster PDF](./BrewcastPoster.pdf)  
