@@ -1,11 +1,11 @@
-# BrewCast ☕📊  
+# BrewCast  
 **Forecasting Success in the Coffee Business**
 
 BrewCast is a predictive machine learning solution developed to assist small coffee shop owners in forecasting successful business days. By leveraging weather patterns and historical sales data, BrewCast empowers data-driven decisions for resource optimization, marketing timing, and staffing.
 
 ---
 
-## 🚀 Project Summary
+## Project Summary
 
 **Meet Maryam**, an aspiring coffee shop owner navigating the challenges of demand forecasting, resource planning, and staffing. BrewCast helps her predict successful sales days using a blend of environmental (weather) and temporal (time/date) factors.
 
@@ -13,7 +13,7 @@ With over **600 days of real-world data**, BrewCast was trained to classify busi
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Develop a predictive ML model to identify profitable business days.
 - Provide actionable insights to optimize:
@@ -24,7 +24,7 @@ With over **600 days of real-world data**, BrewCast was trained to classify busi
 
 ---
 
-## 🧠 Model & Methodology
+## Model & Methodology
 
 ### 🔢 Dataset Features
 - `date`  
@@ -39,25 +39,25 @@ With over **600 days of real-world data**, BrewCast was trained to classify busi
 > - Internal coffee shop sales (over 2 years)  
 > - Weather data from NMC & Weather Underground
 
-### 🛠 Preprocessing
+### Preprocessing
 - Removed holidays, Ramadan, and shop-closed days
 - Handled missing values and outliers
 - Aligned and merged timestamped datasets
 - One-hot encoding for categorical features
 - Normalization for numerical values
 
-### 🌲 Model Selection
+### Model Selection
 - **Random Forest Classifier**  
 - Chosen for its ability to handle non-linear relationships and interpretability
 
-### 📊 Evaluation
+### Evaluation
 - **98.5% validation accuracy**
 - Evaluated using accuracy and feature importance
 - Top features: temperature, rain, weekend flag, and customer count
 
 ---
 
-## 📈 Results
+## Results
 
 - Achieved **98%+ accuracy** on validation data
 - Visualized key trees for interpretability
@@ -132,9 +132,9 @@ BrewCast helps small businesses:
 
 ## Links
 
-- 🔗 [Presentation PDF](./BrewCastppt.pdf)  
-- 🔗 [Poster PDF](./BrewcastPoster.pdf)  
-- 📂 [Dataset CSV](./coffee_shop_sales_dataset_updated.csv)
+- [Presentation PDF](./BrewCastppt.pdf)  
+- [Poster PDF](./BrewcastPoster.pdf)  
+- [Dataset CSV](./coffee_shop_sales_dataset_updated.csv)
 
 ---
 
