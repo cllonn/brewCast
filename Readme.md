@@ -86,18 +86,6 @@ BrewCast helps small businesses:
 
 ---
 
-## Visuals
-
-### Poster  
-![BrewCast Poster](assets/brewcast_poster.png)
-
-### System Overview  
-![Model Diagram](assets/brewcast_diagram.png)
-
-> *(Ensure the images are added to an `assets/` folder in your repo)*
-
----
-
 ## Files in This Repo
 - `brewcast_ppt.pdf` – Full presentation
 - `brewcastposter.pdf` – Final project poster
@@ -132,9 +120,10 @@ BrewCast helps small businesses:
 
 ## Links
 
-- [Presentation PDF](./BrewCastppt.pdf)  
-- [Poster PDF](./BrewcastPoster.pdf)  
-- [Dataset CSV](./coffee_shop_sales_dataset_updated.csv)
+- [Presentation PDF](https://github.com/cllonn/brewCast/blob/main/reports/BrewCastppt.pdf)  
+- [Poster PDF](https://github.com/cllonn/brewCast/blob/main/reports/BrewcastPoster.pdf)  
+- [Dataset CSV](https://github.com/cllonn/brewCast/tree/main/coffee_shop_sales_dataset_awash)
+- [Training code](https://github.com/cllonn/brewCast/tree/main/src/train_model.py)
 
 ---
 
